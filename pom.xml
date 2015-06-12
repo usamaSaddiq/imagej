@@ -202,7 +202,6 @@
 					at least on OS X.
 					<jfxMainAppJarName>ImageJ</jfxMainAppJarName>
 					-->
-					<preLoader>net.imagej.ImageJPreloader</preLoader>
 				</configuration>
 			</plugin>
 			<plugin>
