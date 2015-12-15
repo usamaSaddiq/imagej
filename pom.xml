@@ -192,7 +192,7 @@
 			<plugin>
 				<groupId>com.zenjava</groupId>
 				<artifactId>javafx-maven-plugin</artifactId>
-				<version>8.1.2</version>
+				<version>8.2.0</version>
 				<configuration>
 					<identifier>${project.name}</identifier>
 					<mainClass>${main-class}</mainClass>
