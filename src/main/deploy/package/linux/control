@@ -1,0 +1,13 @@
+Source: imagej
+Section: x11
+Priority: extra
+Maintainer: ImageJ Developers <imagej@loci.wisc.edu>
+Homepage: http://imagej.net/Welcome
+Package: imagej
+Version: 2.0.0
+Architecture: any
+Depends: 
+Description: ImageJ - Scientific Image Analysis
+ An open, extensible imagej-analysis framework
+ built for scientific reproducibility.
+
